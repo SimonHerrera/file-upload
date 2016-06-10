@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SimonHerrera/file-upload/issues"
   },
-  "homepage": "https://github.com/SimonHerrera/file-upload#readme"
+  "homepage": "https://github.com/SimonHerrera/file-upload#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
 }
